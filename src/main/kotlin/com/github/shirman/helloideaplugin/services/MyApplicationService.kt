@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shirman.helloideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shirman.helloideaplugin.MyBundle
 
 class MyApplicationService {
 
